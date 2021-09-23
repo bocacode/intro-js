@@ -1,4 +1,4 @@
-console.log('This file does not exist in the main branch.')
+console.log('This file does exist in the main branch.')
 
 const a = 1
 const b = 2
